@@ -44,6 +44,6 @@ In this App function we declaring variable to catch state: `const [count, setCou
 ...
 ```
 * This is the result
-![alt text](https://github.com/rendiwijiatmoko/Basic-React-Native-Hooks/blob/1.useState/Doc/counter.jpg "Previw Counter")
+<img src='https://github.com/rendiwijiatmoko/Basic-React-Native-Hooks/blob/1.useState/Doc/counter.jpg' width="200" height="1240" alt="Demo"/>
 
-![alt text](https://github.com/rendiwijiatmoko/Basic-React-Native-Hooks/blob/1.useState/Doc/counter.gif "Previw Counter Gif")
+<img src='https://github.com/rendiwijiatmoko/Basic-React-Native-Hooks/blob/1.useState/Doc/counter.gif' width="200" height="1240" alt="Demo Gift"/>
